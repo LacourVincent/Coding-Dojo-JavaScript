@@ -10,7 +10,7 @@
     "url": "git+https://github.com/lacour-vincent/coding-dojo-js.git"
   },
   "devDependencies": {
-    "jest": "^25.1.0"
+    "jest": "^25.2.7"
   },
   "license": "MIT"
 }
